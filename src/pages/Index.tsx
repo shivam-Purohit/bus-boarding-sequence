@@ -1,7 +1,7 @@
-import BoardingGenerator from './BoardingGenerator';
+import SimpleBoardingGenerator from './SimpleBoardingGenerator';
 
 const Index = () => {
-  return <BoardingGenerator />;
+  return <SimpleBoardingGenerator />;
 };
 
 export default Index;
